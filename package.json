@@ -1,0 +1,18 @@
+{
+  "name": "tabnews-clone",
+  "version": "1.0.0",
+  "description": "Esse é um clone do TabNews, uma plataforma de compartilhamento de notícias e discussões",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "André Silveira <pro.andresilveira@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.18.3",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
